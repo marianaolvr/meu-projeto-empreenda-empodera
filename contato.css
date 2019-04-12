@@ -1,0 +1,38 @@
+#Menu {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+}
+
+#formulario {
+    text-align: center;
+    position: fixed;
+    width: 150%;
+}
+
+#exampleInputEmail1, #exampleInputPassword1, #exampleCheck1 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+
+label {
+    text-align: center;
+    position: center;
+    width: 100%;
+}
+
+#area {
+    position: relative;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+}
+
+button {
+    position: relative;
+    left: 37%;
+    top: 29%;
+}
+
