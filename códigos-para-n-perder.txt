@@ -1,0 +1,34 @@
+    <form>
+        <h1>Contato</h1>
+        <div class="control-form">
+            <label for ="text"> Nome <br>
+            <input type="text">
+            <br>
+            <br>
+            <label for ="text"> E-mail <br>
+            <input type="email">
+            <br>
+            <br>
+            <label for ="text"> Deixe sua mensagem <br>
+            <input type="text" class="mensagem">
+            <br>
+            <br>
+            <input type="submit">
+            <br>
+            <br>
+
+
+
+        </div>
+    </form>
+    
+
+
+    .mensagem[type="text"] {
+    height: 50px;
+    border: 1px solid black;
+}
+
+input{
+    border: 1px solid black;  
+}

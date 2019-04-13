@@ -1,7 +1,7 @@
 #menu ul {
     padding: 0px;
     margin: 0px;
-    background-color: #EDEDED;
+    background-color: rgb(255, 195, 174);
     list-style: none;
 }
 
@@ -10,17 +10,18 @@
 }
 
 #menu ul li a {
-    padding: 2px 10px;
-    display: inline-block;
-    /* visual do link */
-    background-color: #EDEDED;
-    color: #333;
-    text-decoration: none;
-    border-bottom: 3px solid #EDEDED;
+     display:inline-block;
+            text-decoration:none;
+            padding:10px 127px;
+        
+            background-color:rgb(217,83,79);
+            color:rgb(255, 195, 174);
+            font:20px arial, sans-serif;
+
 }
 
 #menu ul li a:hover {
-    background-color: #D6D6D6;
-    color: #6D6D6D;
-    border-bottom: 3px solid #EA0000;
+    background-color: rgb(255, 195, 174);
+    color: rgb(7, 5, 5);
+    border-bottom: 3px solid rgb(128, 21, 21);
 }
