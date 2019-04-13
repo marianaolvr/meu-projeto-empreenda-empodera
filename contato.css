@@ -9,9 +9,15 @@ form div + div {
 }
 label {
     /*Para ter certeza que todas as labels tem o mesmo tamanho e estão propriamente alinhadas */
-    display: inline-block;
     width: 500px ;
     text-align: center;
+    font-size: 25px
+
+
+}
+
+label{
+    color: rgb(217,83,79)
 }
 
 input, textarea {
@@ -20,6 +26,7 @@ input, textarea {
 
     /* Para dar o mesmo tamanho a todos os campo de texto */
     width: 500px;
+    height:30px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 
@@ -46,4 +53,17 @@ button {
     /* Esta margem extra representa aproximadamente o mesmo espaço que o espaço entre as labels e os seus campos de texto*/
     margin-left: 70px;
     border: 1px solid rgb(128, 21, 21);
+}
+
+button {
+    background-color: rgb(128, 21, 21)
+    
+  
+
+}
+button {
+    color: rgb(217,83,79)
+    
+  
+
 }
