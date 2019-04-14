@@ -2,7 +2,6 @@ body {
     background-color: rgb(255, 195, 174)
 }
 
-
 .título-página{
     font-family: impact;
     font-size: 50px;
@@ -24,4 +23,11 @@ img{
 
 style{
     text-align: right
+}
+
+.texto-sobre{
+    text-align: left;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-block-end: 60px;
 }
