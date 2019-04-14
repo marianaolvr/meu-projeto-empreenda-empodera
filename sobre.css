@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     background-color: rgb(255, 195, 174)
 }
@@ -12,16 +11,16 @@ body {
 }
 
 .caixas-textos{
-    padding: 70px;
+    padding: 30px;
     margin-left: 100px;
     margin-right: 100px;
+    text-align: center;
 }
 
 img{
     padding: 50px;
 }
-=======
-   #alinhamento{
-       ALIGN = "center"
-   }
->>>>>>> 745725d4b48bca9ac4387add0611f768eab6708f
+
+style{
+    text-align: right
+}
