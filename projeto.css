@@ -11,3 +11,11 @@
 p{
     padding-left: 115px;
 }
+
+.título-página{
+    font-family: impact;
+    font-size: 50px;
+    color: rgb(217, 83, 79);
+    padding-left: 450px;
+    align-items: center;
+}

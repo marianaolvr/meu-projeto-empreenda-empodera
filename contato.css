@@ -66,3 +66,10 @@ button {
     /* cor da linha*/
     color: rgb(217, 83, 79)
 }
+
+.título-página{
+    font-family: impact;
+    font-size: 50px;
+    color: rgb(217, 83, 79);
+    padding-left: 500px;
+}
