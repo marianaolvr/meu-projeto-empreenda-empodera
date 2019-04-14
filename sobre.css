@@ -11,11 +11,19 @@ body {
 }
 
 .caixas-textos{
-    padding: 70px;
+    padding: 30px;
     margin-left: 100px;
     margin-right: 100px;
+    text-align: center;
 }
 
 img{
     padding: 50px;
 }
+<<<<<<< HEAD
+=======
+
+style{
+    text-align: right
+}
+>>>>>>> 526f5d02f35d5564ae02c866ac37798e54597e8e
