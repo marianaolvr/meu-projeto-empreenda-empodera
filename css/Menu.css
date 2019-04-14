@@ -1,0 +1,27 @@
+#menu ul {
+    padding: 20px;
+    margin-left: 100px;
+    background-color: rgb(255, 195, 174);
+    list-style: none;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+     display:inline-block;
+            text-decoration:none;
+            padding:10px 115px;
+        
+            background-color:rgb(217,83,79);
+            color:rgb(255, 195, 174);
+            font:20px arial, sans-serif;
+
+}
+
+#menu ul li a:hover {
+    background-color: rgb(255, 195, 174);
+    color: rgb(7, 5, 5);
+    border-bottom: 3px solid rgb(128, 21, 21);
+}
