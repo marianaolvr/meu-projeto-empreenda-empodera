@@ -1,2 +1,8 @@
-#container img {float:left}
+#container img {float:left
+}
+
+ #container {
+    /* cor do texto*/
+    color: rgb(217, 83, 79)
+}
 
